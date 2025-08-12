@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Pranavo<br>🚀 Passionate about building impactful tech solutions<br>💡 Interests:Web Development, Machine Learning and Deep Learning<br>🛠️ Currently working on:<h6> Freelancing website for campus (web-development)</h6><br>📚 Always learning something new—especially in AI & full-stack development<br>💬 Let's collaborate on innovative and socially impactful projects!
+👋 Hi, I'm Pranavo<br>🚀 Passionate about building impactful tech solutions<br>💡 Interests:Web Development, Machine Learning and Deep Learning<br>🛠️ Currently working on:<strong > Freelancing website for campus (web-development)</strong><br>📚 Always learning something new—especially in AI & full-stack development<br>💬 Let's collaborate on innovative and socially impactful projects!
 
 
 ## 🌐 Socials:
